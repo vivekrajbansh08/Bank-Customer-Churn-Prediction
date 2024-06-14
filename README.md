@@ -16,6 +16,9 @@ The target column here is Exited here.
 In order to create a model these are the following procedure -
 
 Split the dataset in 80% of Train set and 20% of Test Set
+
 Feature engineering
+
 Check the accuracy score for both Training and Test Set
+
 Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
